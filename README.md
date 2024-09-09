@@ -17,3 +17,7 @@ This project focuses on analyzing the sales performance of a coffee shop, levera
 **Top and Bottom Products:** The best-performing products, like barista espresso and Gourmet brewed coffee, showed consistent month-over-month growth, while certain flavored syrups and teas underperformed. Focusing on these top-selling items could boost profits, while reviewing pricing, placement, or promotional strategies for low-performing products may help increase their sales.
 
 **Impact of Pricing on Sales Volume:** The analysis also reveals a clear relationship between unit price and transaction quantity. Products priced competitively with good value for money tend to perform better, while higher-priced specialty items may require strategic promotions or bundled offers to enhance sales.
+
+![Overview](https://github.com/user-attachments/assets/a250bf5c-4dce-4ad2-bcd6-46ba04c13fe8)
+![Monthly Sales](https://github.com/user-attachments/assets/f329f297-9154-4ca8-8a71-8602e6ca7530)
+![Shopper Behaviors](https://github.com/user-attachments/assets/99e2f75b-7a87-4e84-b27d-3eccae68b9a1)
